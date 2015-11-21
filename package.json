@@ -1,0 +1,23 @@
+{
+  "name": "jkup",
+  "version": "1.0.0",
+  "description": "Jon Kuperman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/jkup.git"
+  },
+  "keywords": [
+    "Jon",
+    "Kuperman"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/jkup/issues"
+  },
+  "homepage": "https://github.com/jkup/jkup#readme"
+}
